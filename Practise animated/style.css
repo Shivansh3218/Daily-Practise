@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-image: url(/79a384c3c449ad01b0e57e790807b2c0.gif);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: 20%;
+    color: aliceblue;
+    padding: 0 8%;
+    
+}
