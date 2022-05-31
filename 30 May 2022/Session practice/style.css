@@ -1,0 +1,9 @@
+ #img{
+     width: 150px;
+     height: 251px;
+ }
+ aside{
+     width: 100px;
+     height: 50px;
+     overflow: hidden;
+ }
